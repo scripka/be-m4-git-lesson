@@ -1,9 +1,11 @@
 ### Wireframin'
 #### Schema
-
+![schema](https://content.screencast.com/users/dionew1/folders/Jing/media/9fe2493a-c952-4179-ae3e-ffeeebe9cc80/00000063.png)
 #### Palette
 ![palette](http://g.recordit.co/Vs3VezqItS.gif)
 Hello world
+#### Log In
+![log in page](http://g.recordit.co/maALdkuAtt.gif)
 ### User Profile
 ![user profile](http://g.recordit.co/gZHJedkQpg.gif)
 #### Create User
@@ -12,3 +14,5 @@ Hello world
 ![index](http://g.recordit.co/YqznDMGdhY.gif)
 #### Contributors
 Mike, Olga, Bailey, Cooper
+
+#### Success
